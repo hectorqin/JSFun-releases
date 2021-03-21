@@ -1,5 +1,5 @@
 # JSFun-releases
-JSFun releases for all platform
+JSFun releases for all platforms
 
 ## JSFun 是一个什么样的 App？
 
