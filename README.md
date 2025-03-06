@@ -4,7 +4,6 @@ JSFun releases for all platforms.
 
 欢迎加入[TG群](https://t.me/jsfun_app)
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=342470483" height="40">](https://api.gitsponsors.com/api/badge/link?p=amR+ZS5ufenOQD6OAVIZ8I0zw8Qzd6ZyIhQb2xLuk3q/UZdS+CyLfN31t7xl1AIewCz7D5B959381l2uEySJ4V3al641/8ls8d9KzBBymPT4jyjRqJPFb+KXhKVQ5InmGJrSIp77NV9otlGd3wJywQ==)
 
 ## JSFun 是一个什么样的 App？
 
